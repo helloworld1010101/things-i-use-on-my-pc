@@ -1,0 +1,1 @@
+winget uninstall git.git && winget uninstall Moonsworth.LunarClient && winget uninstall 9PP3C07GTVRH && winget uninstall gimp && exit

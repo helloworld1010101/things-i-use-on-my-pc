@@ -1,0 +1,1 @@
+winget install git.git && winget install Moonsworth.LunarClient && winget install 9PP3C07GTVRH && winget install gimp && exit
